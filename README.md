@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/ajarrett3/ajarrett3/_apis/build/status/AndrewJarrett.ContosoAir?branchName=master)](https://dev.azure.com/ajarrett3/ajarrett3/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
